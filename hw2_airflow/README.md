@@ -34,7 +34,7 @@
 
 ## Результат
 DAG по базовому заданию:
-[Yaskova_M_hw2_dag.py](hw2_airflow/Yaskova_M_hw2_dag.py)
+[Yaskova_M_hw2_dag.py](Yaskova_M_hw2_dag.py)
 
 DAG с распараллеливанием:
-[Yaskova_M_hw2_dag_parallel.py](hw2_airflow/Yaskova_M_hw2_dag_parallel.py)
+[Yaskova_M_hw2_dag_parallel.py](Yaskova_M_hw2_dag_parallel.py)
